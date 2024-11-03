@@ -1,2 +1,2 @@
-# doggy-sweat-cheatsheet
-Doggy Sweat ACM ICPC team notebook
+# icpc-notebook
+Shahid Beheshti University ACM ICPC team notebook
